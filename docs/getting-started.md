@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to this project.  Please see README.md for useful info.
